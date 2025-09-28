@@ -1,6 +1,9 @@
 # Spotify Top 50 – Power BI Dashboard
 
-![Spotify Top 50](Screenshots/dashboard.png)
+
+![Top Songs Chart](Screenshots/top_songs_chart.png)
+![Dashboard Overview](Screenshots/dashboard_overview.png)
+
 
 ## 📊 Overview
 This project analyzes the **Spotify Global Top 50** dataset using **Power BI**. It provides interactive dashboards and insights on:
