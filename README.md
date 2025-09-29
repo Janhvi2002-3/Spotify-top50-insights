@@ -1,8 +1,7 @@
 # Spotify Top 50 – Power BI Dashboard
 
 
-![Top Songs Chart](Screenshots/top_songs_chart.png)
-![Dashboard Overview](Screenshots/dashboard_overview.png)
+
 
 
 ## 📊 Overview
