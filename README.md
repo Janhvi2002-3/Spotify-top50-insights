@@ -1,5 +1,6 @@
 # Spotify Top 50 – Power BI Dashboard
 
+<img width="1264" height="665" alt="Screenshot 2025-09-28 175253" src="https://github.com/user-attachments/assets/3e55bab6-b1c6-4614-89a4-756c575be7e0" />
 
 
 
@@ -27,4 +28,5 @@ The project demonstrates advanced **DAX measures**, KPIs, and Power BI visualiza
 
 ---
 
-## 📂 Repository Structure
+##  📊 Analyzing
+<img width="1133" height="628" alt="Screenshot 2025-09-28 175315" src="https://github.com/user-attachments/assets/1fd3da77-f206-4b74-af3c-bf52961aabb9" />
